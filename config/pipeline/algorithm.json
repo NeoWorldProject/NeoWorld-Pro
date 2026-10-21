@@ -1,0 +1,5 @@
+{
+  "parsing": {"model": "gpt-6.1-sol", "reasoning_effort": "high", "max_refine_iters": 3},
+  "objects": {"model": "gpt-6.1-sol", "reasoning_effort": "high", "max_generation_repairs": 3, "max_articulation_repairs": 3, "max_physics_repairs": 8},
+  "scene": {"population_size": 16, "elite_count": 4, "max_iterations": 10}
+}

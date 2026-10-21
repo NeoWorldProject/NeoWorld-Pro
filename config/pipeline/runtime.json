@@ -1,0 +1,16 @@
+{
+  "objects": {
+    "blender": "/path/to/blender",
+    "isaac_python": "/path/to/isaac-sim/python.sh",
+    "ffmpeg": "ffmpeg"
+  },
+  "scene": {
+    "blender": "/path/to/blender",
+    "isaac_python": "/path/to/isaac-sim/python.sh",
+    "ffmpeg": "ffmpeg",
+    "cache_dir": "../../output/cache",
+    "project_env_root": "../..",
+    "allow_external_contention": false,
+    "sample_resources": true
+  }
+}

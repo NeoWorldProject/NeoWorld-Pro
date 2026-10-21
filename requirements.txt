@@ -1,0 +1,11 @@
+numpy>=1.24
+scipy>=1.10
+trimesh>=4.0
+fast-simplification==0.2.0
+coacd==1.0.14
+Pillow>=9.1
+python-dotenv>=1
+openai>=2.36.0
+usd-core>=25.2
+tiktoken==0.14.0
+matplotlib>=3.7

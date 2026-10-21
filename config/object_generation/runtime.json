@@ -1,0 +1,9 @@
+{
+  "blender": "blender",
+  "isaac_python": "isaac-sim-python",
+  "ffmpeg": "ffmpeg",
+  "startup_timeout": 300,
+  "no_progress_timeout": 600,
+  "api_concurrency": 64,
+  "reasoning_effort": "high"
+}
