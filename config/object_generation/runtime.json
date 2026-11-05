@@ -1,0 +1,8 @@
+{
+  "blender": null,
+  "isaac_python": null,
+  "ffmpeg": null,
+  "startup_timeout": 300,
+  "no_progress_timeout": 600,
+  "api_concurrency": 64
+}

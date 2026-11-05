@@ -1,0 +1,11 @@
+{
+  "repository": "https://github.com/SarahWeiii/CoACD",
+  "tag": "1.0.14",
+  "headers": {
+    "shape.h": "86b52571a894deaccf92f2d59680d5eb469a3582baa71cdab20c7beef5f7dddd",
+    "sobol.h": "76b4565e510b533d903a188a6c2eded3058645ad61a7930bf2a99965713ca0b6",
+    "config.h": "362598fe6157e2ca1f0dda5e3fc3af57927ae80640e2a0604a0985a2e577955f",
+    "logger.h": "87f4054182fed0100f56a5c280defc63de739959c972ea2b0b4d378ec1afe325",
+    "model_obj.h": "116912c776d359671ce8576da39c31e1d79c31619dea970a314c62687cac537d"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "parsing": {
+    "model": "gpt-6.1-sol",
+    "reasoning_effort": "high",
+    "max_refine_iters": 3,
+    "max_error_diagnoses": 5
+  },
+  "objects": {
+    "model": "gpt-6.1-sol",
+    "reasoning_effort": "high",
+    "max_generation_repairs": 3,
+    "max_articulation_repairs": 3,
+    "max_physics_repairs": 5,
+    "max_geometry_repairs": 5,
+    "max_error_diagnoses": 5
+  },
+  "scene": {
+    "candidate_workers": 0,
+    "population_size": 16,
+    "elite_count": 4,
+    "max_iterations": 6,
+    "rollout_max_duration_s": 5.0,
+    "settle_window_s": 0.5,
+    "early_stop_translation_m": 0.0001,
+    "early_stop_rotation_deg": 0.1,
+    "geometry_cache_mib": 256,
+    "reuse_static_geometry": 0,
+    "max_error_diagnoses": 5
+  }
+}
